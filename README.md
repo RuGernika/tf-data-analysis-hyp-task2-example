@@ -15,4 +15,4 @@ bool-значение, ответ на вопрос: "Отклонить ли г
 **Оценка**
 Максимальный балл: 4. 
 
-Решение: https://colab.research.google.com/drive/1dvrCOK3pgLXqpExvUGB7PD_owG5K75SB#scrollTo=7R9tkMSdiFSQ
+Решение:  https://colab.research.google.com/drive/1dvrCOK3pgLXqpExvUGB7PD_owG5K75SB?usp=sharing
